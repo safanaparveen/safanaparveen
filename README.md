@@ -48,9 +48,9 @@ With 2 years of diverse experience in sales, customer support, social media, and
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/DYh8ITFZ8VwXH1A5Hs/giphy.gif" width="300" height="400" />
 
-[![Catherine's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=catherineisonline&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=400#gh-dark-mode-only)](https://github.com/catherineisonline/catherineisonline#gh-dark-mode-only)
-[![Catherine's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=catherineisonline&show_icons=true&theme=default&icon_color=57a8ff&hide_border=true&card_width=400#gh-light-mode-only)](https://github.com/catherineisonline/catherineisonline#gh-light-mode-only)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=catherineisonline&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Safana Parveen J GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=catherineisonline&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=400#gh-dark-mode-only)](https://github.com/catherineisonline/catherineisonline#gh-dark-mode-only)
+[![Safana Parveen J GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=catherineisonline&show_icons=true&theme=default&icon_color=57a8ff&hide_border=true&card_width=400#gh-light-mode-only)](https://github.com/catherineisonline/catherineisonline#gh-light-mode-only)
+[![GitHub Streak](https://www.linkedin.com/in/safana-parveen-j-461967207/)](https://git.io/streak-stats)
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&icon_color=57a8ff&hide_border=true&card_width=150)](https://github.com/anuraghazra/github-readme-stats) --->
 
