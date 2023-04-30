@@ -48,9 +48,7 @@ With 2 years of diverse experience in sales, customer support, social media, and
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/DYh8ITFZ8VwXH1A5Hs/giphy.gif" width="300" height="400" />
 
-[![Safana Parveen J GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=safana arveen&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=400#gh-dark-mode-only)](https://www.linkedin.com/in/safana-parveen-j-461967207/)
-[![Safana Parveen J GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=catherineisonline&show_icons=true&theme=default&icon_color=57a8ff&hide_border=true&card_width=400#gh-light-mode-only)](https://github.com/catherineisonline/catherineisonline#gh-light-mode-only)
-[![GitHub Streak](https://www.linkedin.com/in/safana-parveen-j-461967207/)](https://git.io/streak-stats)
+
 
 
 
